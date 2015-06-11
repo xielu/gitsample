@@ -1,3 +1,4 @@
 Hello WorldX
-line 30
+<<<<<<< HEAD
+line 29
 line 4
